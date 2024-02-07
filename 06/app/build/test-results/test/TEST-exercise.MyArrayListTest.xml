@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.MyArrayListTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-02-07T10:44:09" hostname="yrl6cnqc7c-mac" time="0.007">
+  <properties/>
+  <testcase name="testAddAndGetSize" classname="exercise.MyArrayListTest" time="0.002"/>
+  <testcase name="testGet" classname="exercise.MyArrayListTest" time="0.0"/>
+  <testcase name="testClear" classname="exercise.MyArrayListTest" time="0.0"/>
+  <testcase name="testRemoveByIndex" classname="exercise.MyArrayListTest" time="0.0"/>
+  <testcase name="testRemoveObject" classname="exercise.MyArrayListTest" time="0.0"/>
+  <testcase name="testEnsureCapacity" classname="exercise.MyArrayListTest" time="0.0"/>
+  <testcase name="testRemoveByIndexOutOfBounds" classname="exercise.MyArrayListTest" time="0.003"/>
+  <testcase name="testGetWithInvalidIndex" classname="exercise.MyArrayListTest" time="0.0"/>
+  <testcase name="testIsEmpty" classname="exercise.MyArrayListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

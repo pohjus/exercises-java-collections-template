@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.GradeBookTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-02-07T10:06:17" hostname="yrl6cnqc7c-mac" time="0.013">
+  <properties/>
+  <testcase name="testToString" classname="exercise.GradeBookTest" time="0.012"/>
+  <testcase name="testAddStudent" classname="exercise.GradeBookTest" time="0.0"/>
+  <testcase name="testRetrieveStudentGradeExistingStudent" classname="exercise.GradeBookTest" time="0.0"/>
+  <testcase name="testRetrieveStudentGradeNonExistingStudent" classname="exercise.GradeBookTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

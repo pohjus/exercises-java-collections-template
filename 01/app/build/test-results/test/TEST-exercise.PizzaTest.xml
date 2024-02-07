@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.PizzaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-07T08:04:07" hostname="yrl6cnqc7c-mac" time="0.196">
+  <properties/>
+  <testcase name="testEatMethod" classname="exercise.PizzaTest" time="0.196"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

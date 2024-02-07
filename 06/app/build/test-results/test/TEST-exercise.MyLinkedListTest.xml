@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.MyLinkedListTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-02-07T10:44:09" hostname="yrl6cnqc7c-mac" time="0.002">
+  <properties/>
+  <testcase name="testClear" classname="exercise.MyLinkedListTest" time="0.0"/>
+  <testcase name="testSize" classname="exercise.MyLinkedListTest" time="0.001"/>
+  <testcase name="testRemoveByIndex" classname="exercise.MyLinkedListTest" time="0.0"/>
+  <testcase name="testRemoveAtIndexOutOfBounds" classname="exercise.MyLinkedListTest" time="0.0"/>
+  <testcase name="testRemoveObjectNotFound" classname="exercise.MyLinkedListTest" time="0.0"/>
+  <testcase name="testAddAndGet" classname="exercise.MyLinkedListTest" time="0.0"/>
+  <testcase name="testAddMultipleAndRemove" classname="exercise.MyLinkedListTest" time="0.0"/>
+  <testcase name="testRemoveByElement" classname="exercise.MyLinkedListTest" time="0.0"/>
+  <testcase name="testGetWithInvalidIndex" classname="exercise.MyLinkedListTest" time="0.0"/>
+  <testcase name="testIsEmpty" classname="exercise.MyLinkedListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

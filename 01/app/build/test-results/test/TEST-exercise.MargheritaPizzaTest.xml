@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.MargheritaPizzaTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-02-07T08:04:07" hostname="yrl6cnqc7c-mac" time="0.003">
+  <properties/>
+  <testcase name="testEat" classname="exercise.MargheritaPizzaTest" time="0.002"/>
+  <testcase name="testToString" classname="exercise.MargheritaPizzaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

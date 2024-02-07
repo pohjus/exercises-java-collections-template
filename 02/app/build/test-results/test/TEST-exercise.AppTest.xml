@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-02-07T08:23:27" hostname="yrl6cnqc7c-mac" time="0.392">
+  <properties/>
+  <testcase name="testMeasureDeleteFromStartWithInvalidAmount" classname="exercise.AppTest" time="0.284"/>
+  <testcase name="testMeasureDeleteFromStart" classname="exercise.AppTest" time="0.101"/>
+  <testcase name="testMeasureRandomAccess" classname="exercise.AppTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
